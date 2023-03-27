@@ -1,4 +1,3 @@
-
 Hi there! I'm Mazisi Msebele, a fullstack software developer with 5 years of experience building web applications. I am passionate about creating robust and user-friendly software that solves real-world problems.
 
 
