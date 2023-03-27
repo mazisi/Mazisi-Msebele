@@ -2,7 +2,7 @@ Hi there! I'm Mazisi Msebele, a fullstack software developer with 5 years of exp
 
 
 
-In my career, I have worked with a wide range of technologies, including **Java, PhP, Laravel, Wordpress, VueJs, React, Bootstrap, Tailwind, LaravelLivewire, AlpineJs and AWS** and I am always eager to learn new skills and explore new technologies. I enjoy collaborating with other developers and  to ensure that the software I create meets business needs and exceeds user expectations.
+In my career, I have worked with a wide range of technologies, including **JavaScript, PhP, Laravel, Wordpress, VueJs, React, Bootstrap, Tailwind, LaravelLivewire, AlpineJs and AWS** and I am always eager to learn new skills and explore new technologies. I enjoy collaborating with other developers and  to ensure that the software I create meets business needs and exceeds user expectations.
 
 
 
