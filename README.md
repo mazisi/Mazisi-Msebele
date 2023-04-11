@@ -1,4 +1,4 @@
-Hi there! I'm Mazisi Msebele, a Software Developer with 5 years of experience building web applications. I am passionate about creating robust and user-friendly software that solves real-world problems.
+Hi there! I'm Mazisi Msebele, a Software Developer👨‍💻 with 5 years of experience building web applications. I am passionate about creating robust and user-friendly software that solves real-world problems.
 
 
 
