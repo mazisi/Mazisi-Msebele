@@ -9,7 +9,7 @@ In my career, I have worked with a wide range of technologies, including **JavaS
 Some of my recent projects include::
 - https://goverify.co.za/🌍
 - https://touchsport.org/🌍
--https://bags.mrnlabs.com/🌍
+- https://bags.mrnlabs.com/🌍
 - https://rushhome.co.za/🌍
 - https://pinkmeup.co.za/🌍
 - https://womenleadership.org.za/🌍
