@@ -7,16 +7,16 @@ In my career, I have worked with a wide range of technologies, including **JavaS
 
 
 Some of my recent projects include::
-- https://goverify.co.za/🌍
-- https://touchsport.org/🌍
-- https://bags.mrnlabs.com/🌍
-- https://rushhome.co.za/🌍
-- https://pinkmeup.co.za/🌍
-- https://womenleadership.org.za/🌍
-- https://geek.mrnlabs.com/🌍
-- https://linchpiness.com/🌍
-- https://thusa.education/🌍
-- https://hotelbooking.mrnlabs.com/🌍
+- https://goverify.co.za/
+- https://touchsport.org/
+- https://bags.mrnlabs.com/
+- https://rushhome.co.za/
+- https://pinkmeup.co.za/
+- https://womenleadership.org.za/
+- https://geek.mrnlabs.com/
+- https://linchpiness.com/
+- https://thusa.education/
+- https://hotelbooking.mrnlabs.com/
 
 When I'm not coding, you can find me playing chess and watching documentaries.
 
