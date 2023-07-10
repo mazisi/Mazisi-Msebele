@@ -13,8 +13,10 @@ Some of my recent projects include::
 - https://rushhome.co.za/
 - https://pinkmeup.co.za/
 - https://lightofnationyouth.org.za/
+- https://ccicoating.com/
+- customshadecanopies.com
 - https://womenleadership.org.za/
-- https://geek.mrnlabs.com/
+- https://vaalpac.co.za/
 - https://linchpiness.com/
 - https://thusa.education/
 - https://hotelbooking.mrnlabs.com/
