@@ -9,17 +9,20 @@ In my career, I have worked with a wide range of technologies, including **JavaS
 Some of my recent projects include::
 - https://goverify.co.za/
 - https://touchsport.org/
-- https://bags.mrnlabs.com/
 - https://rushhome.co.za/
 - https://pinkmeup.co.za/
 - https://lightofnationyouth.org.za/
-- https://ccicoating.com/
-- customshadecanopies.com
 - https://womenleadership.org.za/
 - https://vaalpac.co.za/
 - https://linchpiness.com/
-- https://thusa.education/
-- https://hotelbooking.mrnlabs.com/
+- https://theyogallama.com/
+- https://shop.proudlysa.co.za/
+- https://novelgroup.mrnlabs.com/
+- https://theboardmemberglobal.com/
+- https://www.thecxgroup.co.za/
+- https://boxfusion.io/
+- https://cmdtravels.co.za/
+- http://foodbev.co.za/ 
 
 When I'm not coding, you can find me playing chess and watching documentaries.
 
